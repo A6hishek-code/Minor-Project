@@ -1,26 +1,26 @@
 Digital Loan Application
 
-A modern Digital Loan Application web project built using Vite, Tailwind CSS, and JavaScript/TypeScript.
-This project provides a clean UI for users to apply for loans digitally and demonstrates frontend development best practices.
+> A modern Digital Loan Application web project built using Vite, Tailwind CSS, and JavaScript/TypeScript.
+  This project provides a clean UI for users to apply for loans digitally and demonstrates frontend development best practices.
 
 🚀 Features
 
-Responsive and clean UI
+> Responsive and clean UI
 
-Built with Vite for fast development
+> Built with Vite for fast development
 
-Styled using Tailwind CSS
+> Styled using Tailwind CSS
 
-Modular project structure
+> Modular project structure
 
-Ready for deployment on Vercel
+> Ready for deployment on Vercel
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript / TypeScript
+> Frontend: HTML, CSS, JavaScript / TypeScript
 
-Framework & Tools: Vite
+> Framework & Tools: Vite
 
-Styling: Tailwind CSS
+> Styling: Tailwind CSS
 
-Version Control: Git & GitHub
+> Version Control: Git & GitHub
