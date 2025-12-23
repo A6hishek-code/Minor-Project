@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "package.json", "use": "@vercel/static-build" },
+    { "src": "src/api/**/*.ts", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/(.*)", "dest": "/src/api/$1.ts" },
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/(.*\\.(png|jpg|jpeg|gif|svg|ico|webp|avif))", "dest": "/$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
